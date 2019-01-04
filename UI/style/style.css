@@ -1,0 +1,45 @@
+.formWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 15px;
+    border: none;
+}
+
+.formTable {
+    align-self: center;
+    table-layout: fixed;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 100px;
+    margin: 25px;
+}
+
+.alignTdLabel {
+    text-align: right;
+    border: none;
+    color: #0088ce !important;
+}
+
+.alignTdInput {
+    text-align: left;
+    padding: 5px 10px 5px 10px;
+    margin-left: 15px;
+    border: none;
+}
+
+.tableContainer {
+    border: 2px solid #e5ebef;
+    border-radius: 5px;
+    background-color: #e7ebec;
+}
+
+.alignH1 {
+    background-color: #447d98;
+    color: white;
+    text-align: left;
+    border: none;
+    margin-top: 0px;
+    padding: 10px;
+}
+
